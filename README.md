@@ -1,2 +1,3 @@
-# ttibvm
-Teeny Tiny Itty Bitty Virtual Machine
+# IBVM - Itty Bitty Virtual Machine
+
+Virtual machines for static types languages.
